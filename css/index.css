@@ -1,0 +1,32 @@
+.custom-page-header{
+  padding-bottom: 9px;
+  margin: 0 0 20px;
+  border-bottom: 1px solid #eee;
+}
+
+.full-width{
+  width: 100% !important;
+}
+
+.panel-body > .form > .row{
+  padding: 10px 0;
+}
+
+footer > img{
+  width: 90px;
+  float: right;
+  padding-top: 15px;
+}
+
+.breadcrumb{
+  border:none;
+  padding: 15px 0 0px 10px;
+}
+
+.navbar-brand > span{
+  font-size: 19px;
+}
+
+.bg-primary a {
+    color: #fff;
+}
